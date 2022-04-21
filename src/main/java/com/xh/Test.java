@@ -15,6 +15,7 @@ public class Test {
         System.out.println("master55");
         System.out.println("5555");
         System.out.println("6666");
+        System.out.println("6666");
 
     }
 }
